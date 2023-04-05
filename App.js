@@ -21,8 +21,6 @@ export default function App() {
   );
 }
 
-console.log("hello gaha");
-
 const styles = StyleSheet.create({
   // Styles that are unchanged from previous step are hidden for brevity. 
   footerContainer: {
